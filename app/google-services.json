@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "554418760287",
+    "project_id": "innov-8c60c",
+    "storage_bucket": "innov-8c60c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:554418760287:android:a8ab1451ee04599f5e09ea",
+        "android_client_info": {
+          "package_name": "com.example.innov"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "554418760287-68s0m8ufmmeiac8m7lga1thvu383rlv3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsiCPANkCWLQGRkIZOTPnm7o4djZFYEJ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "554418760287-68s0m8ufmmeiac8m7lga1thvu383rlv3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

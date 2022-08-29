@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/gepso/AndroidStudioProjects/Innov/app/src/main/res/drawable/background.xml" value="0.1" />
+        <entry key="..\:/Users/gepso/AndroidStudioProjects/Innov/app/src/main/res/drawable/icon_back.xml" value="0.1" />
+        <entry key="..\:/Users/gepso/AndroidStudioProjects/Innov/app/src/main/res/drawable/jj.xml" value="0.1" />
+        <entry key="..\:/Users/gepso/AndroidStudioProjects/Innov/app/src/main/res/drawable/roundborder.xml" value="0.1" />
+        <entry key="..\:/Users/gepso/AndroidStudioProjects/Innov/app/src/main/res/drawable/rounded_button_colored.xml" value="0.1" />
+        <entry key="..\:/Users/gepso/AndroidStudioProjects/Innov/app/src/main/res/drawable/wave.xml" value="0.1" />
+        <entry key="..\:/Users/gepso/AndroidStudioProjects/Innov/app/src/main/res/layout/activity_cart.xml" value="0.22083333333333333" />
+        <entry key="..\:/Users/gepso/AndroidStudioProjects/Innov/app/src/main/res/layout/activity_customer.xml" value="0.22083333333333333" />
+        <entry key="..\:/Users/gepso/AndroidStudioProjects/Innov/app/src/main/res/layout/activity_customer_dashboard.xml" value="0.22083333333333333" />
+        <entry key="..\:/Users/gepso/AndroidStudioProjects/Innov/app/src/main/res/layout/activity_forgot.xml" value="0.22083333333333333" />
+        <entry key="..\:/Users/gepso/AndroidStudioProjects/Innov/app/src/main/res/layout/activity_login.xml" value="0.15" />
+        <entry key="..\:/Users/gepso/AndroidStudioProjects/Innov/app/src/main/res/layout/activity_main.xml" value="0.22083333333333333" />
+        <entry key="..\:/Users/gepso/AndroidStudioProjects/Innov/app/src/main/res/layout/activity_products.xml" value="0.22083333333333333" />
+        <entry key="..\:/Users/gepso/AndroidStudioProjects/Innov/app/src/main/res/layout/activity_read_data.xml" value="0.20677083333333332" />
+        <entry key="..\:/Users/gepso/AndroidStudioProjects/Innov/app/src/main/res/layout/activity_registration.xml" value="0.22083333333333333" />
+        <entry key="..\:/Users/gepso/AndroidStudioProjects/Innov/app/src/main/res/layout/activity_seller.xml" value="0.22083333333333333" />
+        <entry key="..\:/Users/gepso/AndroidStudioProjects/Innov/app/src/main/res/layout/activity_seller_addtocart.xml" value="0.22083333333333333" />
+        <entry key="..\:/Users/gepso/AndroidStudioProjects/Innov/app/src/main/res/layout/activity_seller_dashboard.xml" value="0.20677083333333332" />
+        <entry key="..\:/Users/gepso/AndroidStudioProjects/Innov/app/src/main/res/layout/app_bar_retailer.xml" value="0.125" />
+        <entry key="..\:/Users/gepso/AndroidStudioProjects/Innov/app/src/main/res/layout/content_retailer.xml" value="0.22083333333333333" />
+        <entry key="..\:/Users/gepso/AndroidStudioProjects/Innov/app/src/main/res/layout/layout_product.xml" value="0.20677083333333332" />
+        <entry key="..\:/Users/gepso/AndroidStudioProjects/Innov/app/src/main/res/layout/nav_header_retailer.xml" value="0.2" />
+        <entry key="..\:/Users/gepso/AndroidStudioProjects/Innov/app/src/main/res/menu/activity_retailer_drawer.xml" value="0.22083333333333333" />
+        <entry key="..\:/Users/gepso/AppData/Local/Android/Sdk/platforms/android-32/data/res/layout/simple_spinner_item.xml" value="0.22447916666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

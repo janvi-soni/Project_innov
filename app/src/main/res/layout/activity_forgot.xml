@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Forgot">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:fontFamily="@font/autour_one"
+        android:textColor="#434852"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:text="Reset your password!"
+        android:textSize="27sp"/>
+    <EditText
+        android:id="@+id/edtx"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:padding="10dp"
+        android:drawableLeft="@drawable/ic_email"
+        android:hint="  Email"
+        android:layout_marginTop="50sp"
+        android:background="@drawable/roundborder"
+        android:layout_marginLeft="40sp"
+        android:layout_marginRight="40sp"/>
+    <Button
+        android:layout_width="match_parent"
+        android:id="@+id/btt"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30sp"
+        android:background="@drawable/jj"
+        android:layout_marginRight="120sp"
+        android:layout_marginLeft="120sp"
+        android:text="reset"
+        android:textColor="#434852"
+        android:textSize="20sp"/>
+
+</LinearLayout>
